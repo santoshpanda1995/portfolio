@@ -1,25 +1,13 @@
 title: Santosh Kumar Panda
 logo: /Asset/capture.jpg
-description: <a href="https://www.linkedin.com/in/santosh-kumar-panda-50761266/">Linkedin</a>
-            <a href="https://orcid.org/0000-0003-2820-3320/">ORCID</a>
-            <a href="https://scholar.google.com/citations?user=-cqqCNoAAAAJ&hl=en/">Scholar</a>
-  <a href="https://www.instagram.com/santosh_panda_254/">
-    <img align="center" alt="Santosh Kumar Panda | Instagram" width="30px" src="/Asset/Instagram.svg" />
-  </a>
-  <a href="https://www.facebook.com/prince.s.kumar.94/">
-    <img align="center" alt="Santosh Kumar Panda | Facebook" width="30px" src="/Asset/fb.png" />
-  </a>
-  <a href="https://www.researchgate.net/profile/Santosh-Panda-13/">
-    <img align="center" alt="Santosh Kumar Panda | Researchgate" width="30px" src="/Asset/ResearchGate_icon_SVG.svg.png" />
-  </a>
-   <a href="https://www.scopus.com/authid/detail.uri?authorId=58960654900">
-    <img align="center" alt="Santosh Kumar Panda | Scopus" width="35px" src="/Asset/scopus.jpg" />
-  </a>
-    <a href="https://santoshpanda1995.github.io/portfolio/">
-    <img align="center" alt="Santosh Kumar Panda | Github Portfolio" width="35px" src="/Asset/github.png" />
-  </a>
-  <a href="mailto:sonupanda1995@gmail.com">
-    <img align="center" alt="Santosh Kumar Panda | Gmail" width="30px" src="/Asset/Gmail.svg" />
-  </a><br>
+description: <a href="https://www.linkedin.com/in/santosh-kumar-panda-50761266/">Linkedin</a><br>
+            <a href="https://orcid.org/0000-0003-2820-3320/">ORCID</a><br>
+            <a href="https://scholar.google.com/citations?user=-cqqCNoAAAAJ&hl=en/">Scholar</a><br>
+            <a href="https://www.instagram.com/santosh_panda_254/">Instagram</a><br>
+            <a href="https://www.facebook.com/prince.s.kumar.94/">Facebook</a><br>
+            <a href="https://www.researchgate.net/profile/Santosh-Panda-13/">ResearchGate</a><br>
+            <a href="https://www.scopus.com/authid/detail.uri?authorId=58960654900">Scopus</a><br>
+            <a href="https://santoshpanda1995.github.io/portfolio/">Github Portfolio</a><br>
+            <a href="mailto:sonupanda1995@gmail.com">Gmail</a><br>
 show_downloads: false
 theme: jekyll-theme-minimal
