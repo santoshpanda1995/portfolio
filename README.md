@@ -14,7 +14,7 @@
 Image Enhancement," in IEEE Sensors Letters, vol. 8, no. 5, pp. 1-4, May 2024, Art no. 7002404, doi:
 10.1109/LSENS.2024.3380889. [[Paper]](https://doi.org/10.1109/LSENS.2024.3380889)   [[Code]](https://github.com/santoshpanda1995/LightweightGCN-Model)
 * Santosh Kumar Panda, Devidutta Nayak, and Pankaj Kumar Sa. "MCCNet: A Multi-Scale Cross Connection
-Network for Low-Light Image Enhancement." In 8th International Conference on Computer Vision and Image
+Network for Low-Light Image Enhancement." In the 8th International Conference on Computer Vision and Image
 Processing, CVIP-2023.(Accepted)
 *  S. K. Panda and C. S. Panda, "A Review on Image Classification Using
 Bag of Features Approach", International Journal of Computer Sciences
@@ -46,7 +46,7 @@ Mohan University, Balasore (2023).
 * Invited Speaker in IEEE WIE and SSGMCE Students Branch Webinar on the topic "Application of Machine
 Learning in Biometric Security Systems (2021)".
 
-## Reviewer for Jourrnal/ Conference
+## Reviewer for Journal/ Conference
 *  IEEE Transactions on Knowledge and Data Engineering.
 *  4th IEEE International Conference on "Advancement in Electronics & Communication Engineering" (Technically
 Co-Sponsored by IEEE UP Section), organized by the Department of ECE and CSE, R.K.G.I.T, Ghaziabad, U.P.,
