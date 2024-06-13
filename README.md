@@ -50,6 +50,9 @@ Learning in Biometric Security Systems (2021)".
 *  IEEE Transactions on Knowledge and Data Engineering.
 *  4th IEEE International Conference on "Advancement in Electronics & Communication Engineering" (Technically
 Co-Sponsored by IEEE UP Section), organized by the Department of ECE and CSE, R.K.G.I.T, Ghaziabad, U.P.,
+India (2024).
+*  3rd IEEE International Conference on "Advancement in Electronics & Communication Engineering" (Technically
+Co-Sponsored by IEEE UP Section), organized by the Department of ECE and CSE, R.K.G.I.T, Ghaziabad, U.P.,
 India (2023).
 *  4th IEEE International Conference on "Computing, Communication, and Intelligent Systems" organized by Dept.
 Of CSE, Sharda School of Engineering and Technology, Greater Noida, Uttar Pradesh (2023).
