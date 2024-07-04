@@ -13,12 +13,10 @@
 * S. K. Panda and P. K. Sa, "Integrating Graph Convolution Into a Deep Multilayer Framework for Low-Light
 Image Enhancement," in IEEE Sensors Letters, vol. 8, no. 5, pp. 1-4, May 2024, Art no. 7002404, doi:
 10.1109/LSENS.2024.3380889. [[Paper]](https://doi.org/10.1109/LSENS.2024.3380889)   [[Code]](https://github.com/santoshpanda1995/LightweightGCN-Model)
-* Santosh Kumar Panda, Devidutta Nayak, and Pankaj Kumar Sa. "MCCNet: A Multi-Scale Cross Connection
-Network for Low-Light Image Enhancement." In the 8th International Conference on Computer Vision and Image
-Processing, CVIP-2023.(Accepted)
-*  S. K. Panda and C. S. Panda, "A Review on Image Classification Using
-Bag of Features Approach", International Journal of Computer Sciences
-and Engineering, vol. 7, no. 6, pp. 538–542, Jun. 2019. 
+* S. K. Panda, D. Nayak, and P. K. Sa, “MCCNet: A multi-scale cross connection network for low-light
+image enhancement,” in Computer Vision and Image Processing. Springer Nature Switzerland, 2024, pp. 488–499. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-58181-6_41)   [[Code]](https://github.com/santoshpanda1995/Multiscale-cross-connection-network)
+*  S. K. Panda and C. S. Panda, "A Review on Image Classification Using Bag of Features Approach", International Journal of Computer Sciences
+and Engineering, vol. 7, no. 6, pp. 538–542, Jun. 2019. [[Paper]](https://doi.org/10.26438/ijcse/v7i6.538542)
 
 ## Projects
 * Web-Based Framework for Public Health Engineering Organisation (MSc Project done at NIC, BBSR)
@@ -34,7 +32,7 @@ and Engineering, vol. 7, no. 6, pp. 538–542, Jun. 2019.
 * Invited as a resource person to present a talk during the "Machine Learning" workshop organized by Sambalpur
 University, Jyotivihar, Burla (2024).
 * Invited as resource persons for a 3-day workshop on "MATLAB and its applications in mathematics" sponsored by
-OHEPEE-IDP and organized by North Odisha University (now Maharaja Sriram Chandra Bhanjadeo University).
+OHEPEE-IDP was organized by North Odisha University (now Maharaja Sriram Chandra Bhanjadeo University).
 (2024).
 * Guest Speaker in IEEE GRSS Summer School on "Digital Agricultural Technologies (DATs)" held at Hyatt
 Hyderabad Gachibowli, Hyderabad, Telangana (2023).
