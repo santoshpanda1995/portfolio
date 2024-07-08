@@ -7,8 +7,8 @@
 - Ph.D, CS | NIT Rourkela (2020-Continuing)      | 8.83
 - M.Phil, CS	| Sambalpur University (2018-19)   | 8.9								       		
 - M.Sc, CS	| Sambalpur University (2016-18)	   | 9.2 			        		
-- B.Sc, CS | GM College, Sambalpur (2013-16)     | 88.75
-- 12th | Panchayat Junior College (2011-13)      | 72.50
+- B.Sc, CS  | GM College, Sambalpur (2013-16)     | 88.75
+- 12th, Sci | Panchayat Junior College (2011-13)      | 72.50
 - 10th | Sarsara High School (2011)              | 81.12
 
 ## Publications
