@@ -32,12 +32,15 @@ and Engineering, vol. 7, no. 6, pp. 538–542, Jun. 2019. [[Paper]](https://doi.
 
 ## Invited as Speakers/ Resource Person
 * Invited as a resource person to present a talk during the "Machine Learning" workshop organized by Sambalpur
-University, Jyotivihar, Burla (2024).
+University, Jyotivihar, Burla (2024).<br>
+<img src="/Asset/sbp1.jpeg" alt="SU" width="380" height="300"> <img src="/Asset/sbp2.jpeg" alt="SU" width="370" height="300"><img src="/Asset/sbp3.jpeg" alt="SU" width="180" height="300">
 * Invited as resource persons for a 3-day workshop on "MATLAB and its applications in mathematics" sponsored by
 OHEPEE-IDP was organized by North Odisha University (now Maharaja Sriram Chandra Bhanjadeo University).
-(2024).
+(2024). <br>
+<img src="/Asset/nou1.jpeg" alt="NOU" width="380" height="300"> <img src="/Asset/nou2.jpeg" alt="NOU" width="220" height="300">
 * Guest Speaker in IEEE GRSS Summer School on "Digital Agricultural Technologies (DATs)" held at Hyatt
 Hyderabad Gachibowli, Hyderabad, Telangana (2023).
+
 *  Invited as a Resource Person in the Awareness program on Cybercrime held at Deepika English Medium School
 Rourkela (2023).
 * Invited as a resource person to present a talk during the "MATLAB for Beginners" workshop organized by Fakir
@@ -48,6 +51,8 @@ Learning in Biometric Security Systems (2021)".
 
 ## Reviewer for Journal/ Conference
 *  IEEE Transactions on Knowledge and Data Engineering.
+*  IEEE International Conference on Vehicular Technology and Transportation System (ICVTTS), organized by IEEE Vehicular Technology Society (VTS), Bangalore, India (2024).
+*  7th International Conference on Recent Trends in Image Processing and Pattern Recognition, organized by Indian Institute of Information Technology, Bhopal, India (2024).
 *  IEEE International Conference on Smart Power Control and Renewable Energy, organized by the Department of ECE, NIT Rourkela, Odisha, India (2024).
 *  3rd IEEE International Conference on Computer Vision and Machine Intelligence (IEEE CVMI), organized by the IIIT Allahabad, Prayagraj, India (2024).
 *  4th IEEE International Conference on "Advancement in Electronics & Communication Engineering" (Technically Co-Sponsored by IEEE UP Section), organized by the Department of ECE and CSE, R.K.G.I.T, Ghaziabad, U.P., India (2024).
