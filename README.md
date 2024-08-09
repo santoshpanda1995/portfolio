@@ -33,7 +33,7 @@ and Engineering, vol. 7, no. 6, pp. 538–542, Jun. 2019. [[Paper]](https://doi.
 ## Invited as Speakers/ Resource Person
 * Invited as a resource person to present a talk during the "Machine Learning" workshop organized by Sambalpur
 University, Jyotivihar, Burla (2024).<br>
-<img src="/Asset/sbp1.jpeg" alt="SU" width="380" height="300"> <img src="/Asset/sbp2.jpeg" alt="SU" width="370" height="300"><img src="/Asset/sbp3.jpeg" alt="SU" width="180" height="300">
+<img src="/Asset/sbp1.jpeg" alt="SU" width="380" height="300"> <img src="/Asset/sbp3.jpeg" alt="SU" width="180" height="300">
 * Invited as resource persons for a 3-day workshop on "MATLAB and its applications in mathematics" sponsored by
 OHEPEE-IDP was organized by North Odisha University (now Maharaja Sriram Chandra Bhanjadeo University).
 (2024). <br>
