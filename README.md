@@ -33,18 +33,20 @@ and Engineering, vol. 7, no. 6, pp. 538–542, Jun. 2019. [[Paper]](https://doi.
 ## Invited as Speakers/ Resource Person
 * Invited as a resource person to present a talk during the "Machine Learning" workshop organized by Sambalpur
 University, Jyotivihar, Burla (2024).<br>
-<img src="/Asset/sbp1.jpeg" alt="SU" width="380" height="300"> <img src="/Asset/sbp3.jpeg" alt="SU" width="180" height="300">
+![PHEO](/Asset/sbp1.jpeg)
 * Invited as resource persons for a 3-day workshop on "MATLAB and its applications in mathematics" sponsored by
 OHEPEE-IDP was organized by North Odisha University (now Maharaja Sriram Chandra Bhanjadeo University).
 (2024). <br>
-<img src="/Asset/nou1.jpeg" alt="NOU" width="380" height="300"> <img src="/Asset/nou2.jpeg" alt="NOU" width="220" height="300">
+![PHEO](/Asset/nou1.jpeg)
 * Guest Speaker in IEEE GRSS Summer School on "Digital Agricultural Technologies (DATs)" held at Hyatt
-Hyderabad Gachibowli, Hyderabad, Telangana (2023).
-
+Hyderabad Gachibowli, Hyderabad, Telangana (2023). <br>
+![PHEO](/Asset/hyd1.jpg)
 *  Invited as a Resource Person in the Awareness program on Cybercrime held at Deepika English Medium School
-Rourkela (2023).
+Rourkela (2023). <br>
+![PHEO](/Asset/cyber1.jpg)
 * Invited as a resource person to present a talk during the "MATLAB for Beginners" workshop organized by Fakir
 Mohan University, Balasore (2023).
+![PHEO](/Asset/fm1.jpg)
 * Session manager in IEEE INGARSS Conference (2021).
 * Invited Speaker in IEEE WIE and SSGMCE Students Branch Webinar on the topic "Application of Machine
 Learning in Biometric Security Systems (2021)".
