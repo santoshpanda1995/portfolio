@@ -1,7 +1,7 @@
 # Senior Research Fellow, DST, Govt. of India
 #### Languages: Python, MATLAB, C, C++, Java, Rust, PHP, HTML
 #### Frameworks: Keras, Tensorflow
-#### Github Stars: 115 stars
+#### Github Stars: 113 stars
 #### Google Scholar Citations: 11 Citations
 ## Education
 - Ph.D, CS | NIT Rourkela (2020-Continuing)      | 8.83
