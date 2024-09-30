@@ -54,6 +54,7 @@ Learning in Biometric Security Systems (2021)".
 
 ## Reviewer for Journal/ Conference
 *  IEEE Transactions on Knowledge and Data Engineering.
+*  IEEE Transactions on Consumer Electronics.
 *  IEEE International Conference on Vehicular Technology and Transportation System (ICVTTS), organized by IEEE Vehicular Technology Society (VTS), Bangalore, India (2024).
 *  7th International Conference on Recent Trends in Image Processing and Pattern Recognition, organized by Indian Institute of Information Technology, Bhopal, India (2024).
 *  IEEE International Conference on Smart Power Control and Renewable Energy, organized by the Department of ECE, NIT Rourkela, Odisha, India (2024).
