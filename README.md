@@ -12,6 +12,7 @@
 - 10th | Sarsara High School (2011)              | 81.12
 
 ## Publications
+* S. K. Panda and P. K. Sa, "Exposure Calibration Network with Graph Convolution for Low-Light Image Enhancement," in IEEE Sensors Journal. (Accepted)
 * S. K. Panda and P. K. Sa, "A Deep Retinex-based Model for Enhancing Low-Light Images Captured from UAV," in 6th International Conference on Communication and Intelligent Systems (ICCIS 2024), MANIT Bhopal, November 08-09, 2024.( Just accepted )
 * S. K. Panda and P. K. Sa, "Integrating Graph Convolution Into a Deep Multilayer Framework for Low-Light
 Image Enhancement," in IEEE Sensors Letters, vol. 8, no. 5, pp. 1-4, May 2024, Art no. 7002404, doi:
