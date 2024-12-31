@@ -1,8 +1,8 @@
 # Senior Research Fellow, DST, Govt. of India
 #### Languages: Python, MATLAB, C, C++, Java, Rust, PHP, HTML
 #### Frameworks: Keras, Tensorflow
-#### Github Stars: 133 stars
-#### Google Scholar Citations: 18 Citations
+#### Github Stars: 134 stars
+#### Google Scholar Citations: 20 Citations
 ## Education
 - Ph.D, CS | NIT Rourkela (2020-Continuing)      | 8.83
 - M.Phil, CS	| Sambalpur University (2018-19)   | 8.9								       		
@@ -12,6 +12,7 @@
 - 10th | Sarsara High School (2011)              | 81.12
 
 ## Publications
+* S. K. Panda and P. K. Sa, "A Thermal-Aware Multi-Sensor Framework for Low-Light Image Enhancement," in IEEE Sensors Journal. (Under Review)
 * S. K. Panda and P. K. Sa, "Exposure Calibration Network with Graph Convolution for Low-Light Image Enhancement," in IEEE Sensors Journal. (Accepted)
 * S. K. Panda and P. K. Sa, "A Deep Retinex-based Model for Enhancing Low-Light Images Captured from UAV," in 6th International Conference on Communication and Intelligent Systems (ICCIS 2024), MANIT Bhopal, November 08-09, 2024.( Just accepted )
 * S. K. Panda and P. K. Sa, "Integrating Graph Convolution Into a Deep Multilayer Framework for Low-Light
@@ -55,6 +56,7 @@ Learning in Biometric Security Systems (2021)".
 
 ## Reviewer for Journal/ Conference
 *  IEEE Transactions on Knowledge and Data Engineering.
+*  IEEE Sensors Letters
 *  IEEE Transactions on Consumer Electronics.
 *  IEEE International Conference on Vehicular Technology and Transportation System (ICVTTS), organized by IEEE Vehicular Technology Society (VTS), Bangalore, India (2024).
 *  7th International Conference on Recent Trends in Image Processing and Pattern Recognition, organized by Indian Institute of Information Technology, Bhopal, India (2024).
