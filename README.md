@@ -4,13 +4,54 @@
 #### Github Stars: 136 stars
 #### Google Scholar Citations: 20 Citations
 ## Education
-- Ph.D, CS | NIT Rourkela (2020-Continuing)      | 8.83
-- M.Phil, CS	| Sambalpur University (2018-19)   | 8.9								       		
-- M.Sc, CS	| Sambalpur University (2016-18)	   | 9.2 			        		
-- B.Sc, CS  | GM College, Sambalpur (2013-16)     | 88.75
-- 12th, Sci | Panchayat Junior College (2011-13)      | 72.50
-- 10th | Sarsara High School (2011)              | 81.12
-
+<table>
+        <thead>
+            <tr>
+                <th>Degree</th>
+                <th>Institution</th>
+                <th>Year</th>
+                <th>Grade/Percentage</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Ph.D, CS</td>
+                <td>NIT Rourkela</td>
+                <td>2020-Continuing</td>
+                <td>8.83</td>
+            </tr>
+            <tr>
+                <td>M.Phil, CS</td>
+                <td>Sambalpur University</td>
+                <td>2018-19</td>
+                <td>8.9</td>
+            </tr>
+            <tr>
+                <td>M.Sc, CS</td>
+                <td>Sambalpur University</td>
+                <td>2016-18</td>
+                <td>9.2</td>
+            </tr>
+            <tr>
+                <td>B.Sc, CS</td>
+                <td>GM College, Sambalpur</td>
+                <td>2013-16</td>
+                <td>88.75</td>
+            </tr>
+            <tr>
+                <td>12th, Sci</td>
+                <td>Panchayat Junior College</td>
+                <td>2011-13</td>
+                <td>72.50</td>
+            </tr>
+            <tr>
+                <td>10th</td>
+                <td>Sarsara High School</td>
+                <td>2011</td>
+                <td>81.12</td>
+            </tr>
+        </tbody>
+    </table>
 ## Publications
 * S. K. Panda and P. K. Sa, "A Thermal-Aware Multi-Sensor Framework for Low-Light Image Enhancement," in IEEE Sensors Journal. (Under Review)
 * S. K. Panda and P. K. Sa, "Exposure Calibration Network with Graph Convolution for Low-Light Image Enhancement," in IEEE Sensors Journal, vol. 24, no. 24, pp. 41971-41980. [[Paper]](https://doi.org/10.1109/JSEN.2024.3481416)
