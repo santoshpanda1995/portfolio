@@ -52,6 +52,7 @@
             </tr>
         </tbody>
     </table>
+    
 ## Publications
 * S. K. Panda and P. K. Sa, "A Thermal-Aware Multi-Sensor Framework for Low-Light Image Enhancement," in IEEE Sensors Journal. (Under Review)
 * S. K. Panda and P. K. Sa, "Exposure Calibration Network with Graph Convolution for Low-Light Image Enhancement," in IEEE Sensors Journal, vol. 24, no. 24, pp. 41971-41980. [[Paper]](https://doi.org/10.1109/JSEN.2024.3481416)
