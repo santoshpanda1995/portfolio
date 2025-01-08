@@ -13,8 +13,8 @@
 
 ## Publications
 * S. K. Panda and P. K. Sa, "A Thermal-Aware Multi-Sensor Framework for Low-Light Image Enhancement," in IEEE Sensors Journal. (Under Review)
-* S. K. Panda and P. K. Sa, "Exposure Calibration Network with Graph Convolution for Low-Light Image Enhancement," in IEEE Sensors Journal. (Accepted)
-* S. K. Panda and P. K. Sa, "A Deep Retinex-based Model for Enhancing Low-Light Images Captured from UAV," in 6th International Conference on Communication and Intelligent Systems (ICCIS 2024), MANIT Bhopal, November 08-09, 2024.( Just accepted )
+* S. K. Panda and P. K. Sa, "Exposure Calibration Network with Graph Convolution for Low-Light Image Enhancement," in IEEE Sensors Journal, vol. 24, no. 24, pp. 41971-41980. [[Paper]] (https://doi.org/10.1109/JSEN.2024.3481416)
+* S. K. Panda and P. K. Sa, "A Deep Retinex-based Model for Enhancing Low-Light Images Captured from UAV," in 6th International Conference on Communication and Intelligent Systems (ICCIS 2024), MANIT Bhopal, November 08-09, 2024. ( Just accepted )
 * S. K. Panda and P. K. Sa, "Integrating Graph Convolution Into a Deep Multilayer Framework for Low-Light
 Image Enhancement," in IEEE Sensors Letters, vol. 8, no. 5, pp. 1-4, May 2024, Art no. 7002404, doi:
 10.1109/LSENS.2024.3380889. [[Paper]](https://doi.org/10.1109/LSENS.2024.3380889)   [[Code]](https://github.com/santoshpanda1995/LightweightGCN-Model)
