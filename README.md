@@ -101,10 +101,20 @@ Mohan University, Balasore (2023).
 Learning in Biometric Security Systems (2021)".
 
 ## Reviewer for Journal/ Conference
+<strong> Journals </strong>
+*  Springer Nature Applied Intelligence
 *  IEEE Transactions on Knowledge and Data Engineering.
 *  IEEE Sensors Letters
 *  IEEE Transactions on Consumer Electronics.
+*  IGI Global Book named "Advances in Neuroscience, Neuropsychiatry, and Neurology" (2023).
+
+  <strong> Conferences </strong>
+   
+*  3rd IEEE International Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI-2025), organized by the Department of Electrical and Electronics Engineering at ABV-IIITM Gwalior, India (2025).
+*  8th IEEE International Conference on Electrical, Control and Computer Engineering (InECCE 2025), organized by the IEEE Control Systems Society (CSS), Malaysia Section Chapter (2025).
+*  8th IEEE Conference on Information Communication Technology, organized by Indian Institute of Information Technology Allahabad, Prayagraj UP India (2024).
 *  IEEE International Conference on Vehicular Technology and Transportation System (ICVTTS), organized by IEEE Vehicular Technology Society (VTS), Bangalore, India (2024).
+*  2nd International Conference on Signal Processing, Communication, Power & Embedded Systems, organized by Centurion University of Technology and Management, Parlakhemundi , Odisha, India (2024).
 *  7th International Conference on Recent Trends in Image Processing and Pattern Recognition, organized by Indian Institute of Information Technology, Bhopal, India (2024).
 *  IEEE International Conference on Smart Power Control and Renewable Energy, organized by the Department of ECE, NIT Rourkela, Odisha, India (2024).
 *  3rd IEEE International Conference on Computer Vision and Machine Intelligence (IEEE CVMI), organized by the IIIT Allahabad, Prayagraj, India (2024).
@@ -113,4 +123,4 @@ Learning in Biometric Security Systems (2021)".
 Co-Sponsored by IEEE UP Section), organized by the Department of ECE and CSE, R.K.G.I.T, Ghaziabad, U.P., India (2023).
 *  4th IEEE International Conference on "Computing, Communication, and Intelligent Systems" organized by Dept.
 Of CSE, Sharda School of Engineering and Technology, Greater Noida, Uttar Pradesh (2023).
-* IGI Global Book named "Advances in Neuroscience, Neuropsychiatry, and Neurology" (2023).
+
