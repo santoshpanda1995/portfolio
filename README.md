@@ -54,17 +54,20 @@
     </table>
     
 ## Publications
-* S. Ghosh, <strong>S. K. Panda</strong>, M. K. Bishwal and P. K. Sa. "Transformer-Based Model for Building Classification Under Diverse Lighting Conditions." 6th IEEE International Conference on Innovative Trends in Information Technology (ICITIIT 2025), IIIT Kottayam. ( Accepted )
+
+<strong>Journals</strong>
+
 * <strong>S. K. Panda</strong> and P. K. Sa, "A Thermal-Aware Multi-Sensor Framework for Low-Light Image Enhancement," in IEEE Sensors Journal. (Under Review)
 * <strong>S. K. Panda</strong> and P. K. Sa, "Exposure Calibration Network with Graph Convolution for Low-Light Image Enhancement," in IEEE Sensors Journal, vol. 24, no. 24, pp. 41971-41980. [[Paper]](https://doi.org/10.1109/JSEN.2024.3481416)
-* <strong>S. K. Panda</strong> and P. K. Sa, "A Deep Retinex-based Model for Enhancing Low-Light Images Captured from UAV," in 6th International Conference on Communication and Intelligent Systems (ICCIS 2024), MANIT Bhopal, November 08-09, 2024. ( Accepted and Presented)
-* <strong>S. K. Panda</strong> and P. K. Sa, "Integrating Graph Convolution Into a Deep Multilayer Framework for Low-Light
-Image Enhancement," in IEEE Sensors Letters, vol. 8, no. 5, pp. 1-4, May 2024, Art no. 7002404, doi:
-10.1109/LSENS.2024.3380889. [[Paper]](https://doi.org/10.1109/LSENS.2024.3380889)   [[Code]](https://github.com/santoshpanda1995/LightweightGCN-Model)
-* <strong>S. K. Panda</strong>, D. Nayak, and P. K. Sa, “MCCNet: A multi-scale cross connection network for low-light
-image enhancement,” in Computer Vision and Image Processing. Springer Nature Switzerland, 2024, pp. 488–499. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-58181-6_41)   [[Code]](https://github.com/santoshpanda1995/Multiscale-cross-connection-network)
+* <strong>S. K. Panda</strong> and P. K. Sa, "Integrating Graph Convolution Into a Deep Multilayer Framework for Low-Light Image Enhancement," in IEEE Sensors Letters, vol. 8, no. 5, pp. 1-4, May 2024, Art no. 7002404, doi: 10.1109/LSENS.2024.3380889. [[Paper]](https://doi.org/10.1109/LSENS.2024.3380889)   [[Code]](https://github.com/santoshpanda1995/LightweightGCN-Model)
 *  <strong>S. K. Panda</strong> and C. S. Panda, "A Review on Image Classification Using Bag of Features Approach", International Journal of Computer Sciences
 and Engineering, vol. 7, no. 6, pp. 538–542, Jun. 2019. [[Paper]](https://doi.org/10.26438/ijcse/v7i6.538542)
+
+<strong>Conferences</strong>
+* S. Ghosh, <strong>S. K. Panda</strong>, M. K. Bishwal and P. K. Sa. "Transformer-Based Model for Building Classification Under Diverse Lighting Conditions." 6th IEEE International Conference on Innovative Trends in Information Technology (ICITIIT 2025), IIIT Kottayam. ( Accepted )
+* <strong>S. K. Panda</strong> and P. K. Sa, "A Deep Retinex-based Model for Enhancing Low-Light Images Captured from UAV," in 6th International Conference on Communication and Intelligent Systems (ICCIS 2024), MANIT Bhopal, November 08-09, 2024. ( Accepted and Presented)
+* <strong>S. K. Panda</strong>, D. Nayak, and P. K. Sa, “MCCNet: A multi-scale cross connection network for low-light image enhancement,” in Computer Vision and Image Processing. Springer Nature Switzerland, 2024, pp. 488–499. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-58181-6_41)   [[Code]](https://github.com/santoshpanda1995/Multiscale-cross-connection-network)
+
 
 ## Projects
 * Web-Based Framework for Public Health Engineering Organisation (MSc Project done at NIC, BBSR)
