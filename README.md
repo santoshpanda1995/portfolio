@@ -54,6 +54,7 @@
     </table>
     
 ## Publications
+* S. Ghosh, <strong>S. K. Panda</strong>, M. K. Bishwal and P. K. Sa. "Transformer-Based Model for Building Classification Under Diverse Lighting Conditions." 6th IEEE International Conference on Innovative Trends in Information Technology (ICITIIT 2025), IIIT Kottayam. ( Accepted )
 * <strong>S. K. Panda</strong> and P. K. Sa, "A Thermal-Aware Multi-Sensor Framework for Low-Light Image Enhancement," in IEEE Sensors Journal. (Under Review)
 * <strong>S. K. Panda</strong> and P. K. Sa, "Exposure Calibration Network with Graph Convolution for Low-Light Image Enhancement," in IEEE Sensors Journal, vol. 24, no. 24, pp. 41971-41980. [[Paper]](https://doi.org/10.1109/JSEN.2024.3481416)
 * <strong>S. K. Panda</strong> and P. K. Sa, "A Deep Retinex-based Model for Enhancing Low-Light Images Captured from UAV," in 6th International Conference on Communication and Intelligent Systems (ICCIS 2024), MANIT Bhopal, November 08-09, 2024. ( Accepted and Presented)
