@@ -1,8 +1,8 @@
 # Senior Research Fellow, DST, Govt. of India
 #### Languages: Python, MATLAB, C, C++, Java, Rust, PHP, HTML
 #### Frameworks: Keras, Tensorflow
-#### Github Stars: 136 stars
-#### Google Scholar Citations: 20 Citations
+#### Github Stars: 138 stars
+#### Google Scholar Citations: 23 Citations
 ## Education
 <table>
         <thead>
@@ -64,7 +64,7 @@
 and Engineering, vol. 7, no. 6, pp. 538–542, Jun. 2019. [[Paper]](https://doi.org/10.26438/ijcse/v7i6.538542)
 
 <strong>Conferences</strong>
-* S. Ghosh, <strong>S. K. Panda</strong>, M. K. Bishwal and P. K. Sa. "Transformer-Based Model for Building Classification Under Diverse Lighting Conditions." 6th IEEE International Conference on Innovative Trends in Information Technology (ICITIIT 2025), IIIT Kottayam. ( Accepted )
+* S. Ghosh, <strong>S. K. Panda</strong>, M. K. Bishwal and P. K. Sa. "Transformer-Based Model for Building Classification Under Diverse Lighting Conditions." 6th IEEE International Conference on Innovative Trends in Information Technology (ICITIIT 2025), IIIT Kottayam. ( Accepted and Presented)
 * <strong>S. K. Panda</strong> and P. K. Sa, "A Deep Retinex-based Model for Enhancing Low-Light Images Captured from UAV," in 6th International Conference on Communication and Intelligent Systems (ICCIS 2024), MANIT Bhopal, November 08-09, 2024. ( Accepted and Presented)
 * <strong>S. K. Panda</strong>, D. Nayak, and P. K. Sa, “MCCNet: A multi-scale cross connection network for low-light image enhancement,” in Computer Vision and Image Processing. Springer Nature Switzerland, 2024, pp. 488–499. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-58181-6_41)   [[Code]](https://github.com/santoshpanda1995/Multiscale-cross-connection-network)
 
