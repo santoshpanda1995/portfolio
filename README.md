@@ -1,7 +1,7 @@
-# Senior Research Fellow, DST, Govt. of India
+# Assistant Professor, SoCS, UPES Dehradun
 #### Languages: Python, MATLAB, C, C++, Java, Rust, PHP, HTML
 #### Frameworks: Keras, Tensorflow
-#### Github Stars: 147 stars
+#### Github Stars: 148 stars
 #### Google Scholar Citations: 23 Citations
 ## Education
 <table>
