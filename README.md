@@ -102,6 +102,7 @@ Learning in Biometric Security Systems (2021)".
 
 ## Reviewer for Journal/ Conference
 <strong> Journals </strong>
+*  Elsevier Knowledge-Based Systems
 *  Springer Nature Applied Intelligence
 *  IEEE Transactions on Knowledge and Data Engineering.
 *  IEEE Sensors Letters
