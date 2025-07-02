@@ -64,7 +64,7 @@
 and Engineering, vol. 7, no. 6, pp. 538–542, Jun. 2019. [[Paper]](https://doi.org/10.26438/ijcse/v7i6.538542)
 
 <strong>Conferences</strong>
-* S. Ghosh, <strong>S. K. Panda</strong>, M. K. Bishwal and P. K. Sa. "Transformer-Based Model for Building Classification Under Diverse Lighting Conditions." 6th IEEE International Conference on Innovative Trends in Information Technology (ICITIIT 2025), IIIT Kottayam. ( Accepted and Presented)
+* S. Ghosh, **S. K. Panda**, M. K. Bishwal and P. K. Sa, "Transformer-Based Model for Building Classification Under Diverse Lighting Conditions," 2025 International Conference on Innovative Trends in Information Technology (ICITIIT), Kottayam, India, 2025, pp. 1-6. [[Paper]](https://ieeexplore.ieee.org/document/11040288)
 * <strong>S. K. Panda</strong> and P. K. Sa, "A Deep Retinex-based Model for Enhancing Low-Light Images Captured from UAV," in 6th International Conference on Communication and Intelligent Systems (ICCIS 2024), MANIT Bhopal, November 08-09, 2024. ( Accepted and Presented)
 * <strong>S. K. Panda</strong>, D. Nayak, and P. K. Sa, “MCCNet: A multi-scale cross connection network for low-light image enhancement,” in Computer Vision and Image Processing. Springer Nature Switzerland, 2024, pp. 488–499. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-58181-6_41)   [[Code]](https://github.com/santoshpanda1995/Multiscale-cross-connection-network)
 
@@ -81,6 +81,7 @@ and Engineering, vol. 7, no. 6, pp. 538–542, Jun. 2019. [[Paper]](https://doi.
 
 ## Courses Taught
 * Applied Machine Learning (CSAI2017P)
+* Applied Machine Learning Lab
 * Pattern Recognition (CSAI7025)
 
 ## Invited as Speakers/ Resource Person
@@ -130,7 +131,7 @@ Co-Sponsored by IEEE UP Section), organized by the Department of ECE and CSE, R.
 *  4th IEEE International Conference on "Computing, Communication, and Intelligent Systems" organized by Dept.
 Of CSE, Sharda School of Engineering and Technology, Greater Noida, Uttar Pradesh (2023).
 
-## FDP/workshop/short term course attended
+## FDP attended
 * AICTE Training And Learning (ATAL) Academy Online FDP on "Semantic Intelligence: Applications and Perspectives" from 2020-9-26 to 2020-9-30 at **NIT Kurukshetra.**
 * AICTE Training And Learning (ATAL) Academy Online FDP on "Data Sciences" from 2020-12-15 to 2020-12-19 at **NIT Mizoram.**
 * AICTE Training And Learning (ATAL) Academy Online FDP on "Block chain" from 2020-9-14 to 2020-9-18 at **NIT Raipur.**
