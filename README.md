@@ -2,7 +2,7 @@
 #### Languages: Python, MATLAB, C, C++, Java, Rust, PHP, HTML
 #### Frameworks: Keras, Tensorflow
 #### Github Stars: 170 stars
-#### Google Scholar Citations: 26 Citations
+#### Google Scholar Citations: 29 Citations
 ## Education
 <table>
         <thead>
@@ -57,7 +57,7 @@
 
 <strong>Journals</strong>
 
-* <strong>S. K. Panda</strong> and P. K. Sa, "A Thermal-Aware Multi-Sensor Framework for Low-Light Image Enhancement," in IEEE Sensors Journal. (Under Review)
+* <strong>S. K. Panda</strong> and P. K. Sa, "A Thermal-Aware Multi-Sensor Framework for Low-Light Image Enhancement," in IEEE Sensors Journal. (Accepted)
 * <strong>S. K. Panda</strong> and P. K. Sa, "Exposure Calibration Network with Graph Convolution for Low-Light Image Enhancement," in IEEE Sensors Journal, vol. 24, no. 24, pp. 41971-41980. [[Paper]](https://doi.org/10.1109/JSEN.2024.3481416)
 * <strong>S. K. Panda</strong> and P. K. Sa, "Integrating Graph Convolution Into a Deep Multilayer Framework for Low-Light Image Enhancement," in IEEE Sensors Letters, vol. 8, no. 5, pp. 1-4, May 2024, Art no. 7002404, doi: 10.1109/LSENS.2024.3380889. [[Paper]](https://doi.org/10.1109/LSENS.2024.3380889)   [[Code]](https://github.com/santoshpanda1995/LightweightGCN-Model)
 *  <strong>S. K. Panda</strong> and C. S. Panda, "A Review on Image Classification Using Bag of Features Approach", International Journal of Computer Sciences
