@@ -141,4 +141,4 @@ Of CSE, Sharda School of Engineering and Technology, Greater Noida, Uttar Prades
 * AICTE Training And Learning (ATAL) Academy Online FDP on "Internet of Things (IoT)" from 2020-11-14 to 2020-11-18 at **IIT Goa.**
 * AICTE Training And Learning (ATAL) Academy Online FDP on "Cyber Security" from 2020-12-7 to 2020-12-11 at **NIT Arunachal Pradesh.**
 * DST SERB Sponsored FDP on Biomedical Signal Analysis and Machine Learning (BSAML), from 11th to 15th January 2021 at **NIT Calicut.**
-
+## Others:
