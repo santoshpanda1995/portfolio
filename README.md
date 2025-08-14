@@ -1,7 +1,7 @@
 # Assistant Professor, SoCS, UPES Dehradun
 #### Languages: Python, MATLAB, C, C++, Java, Rust, PHP, HTML
 #### Frameworks: Keras, Tensorflow
-#### Github Stars: 202 stars
+#### Github Stars: 222 stars
 #### Google Scholar Citations: 29 Citations
 ## Education
 <table>
@@ -74,15 +74,20 @@ and Engineering, vol. 7, no. 6, pp. 538–542, Jun. 2019. [[Paper]](https://doi.
  ![PHEO](/Asset/pheo.PNG)
 
 ## Achievements
+* Received Funding from CVIP to present conference paper at IIT Jammu.
 * 1st Position in MPhil Computer Science, Sambalpur University.
 * 1st Position in MSc Computer Science, Sambalpur University.
 * AIR<1000 in DST INSPIRE fellowship, Govt. of India
 * Medhabruti scholarship by Govt of Odisha (2011-2018).
 
-## Courses Taught
+## Courses Taught/ Currently Teaching
 * Applied Machine Learning (CSAI2017P)
 * Applied Machine Learning Lab
 * Pattern Recognition (CSAI7025)
+* Deep Learning
+* Deep Learning Lab
+* Elements of AIML
+* Elements of AIML Lab
 
 ## Invited as Speakers/ Resource Person
 * Invited as a resource person to present a talk during the "Machine Learning" workshop organized by Sambalpur
@@ -108,6 +113,7 @@ Learning in Biometric Security Systems (2021)".
 ## Reviewer for Journal/ Conference
 <strong> Journals </strong>
 *  Elsevier Knowledge-Based Systems
+*  Elsevier Pattern Recognition
 *  Elsevier Computer vision and image understanding
 *  Springer Nature Applied Intelligence
 *  IEEE Transactions on Knowledge and Data Engineering.
@@ -135,7 +141,7 @@ Of CSE, Sharda School of Engineering and Technology, Greater Noida, Uttar Prades
 * AICTE Training And Learning (ATAL) Academy Online FDP on "Semantic Intelligence: Applications and Perspectives" from 2020-9-26 to 2020-9-30 at **NIT Kurukshetra.**
 * AICTE Training And Learning (ATAL) Academy Online FDP on "Data Sciences" from 2020-12-15 to 2020-12-19 at **NIT Mizoram.**
 * AICTE Training And Learning (ATAL) Academy Online FDP on "Block chain" from 2020-9-14 to 2020-9-18 at **NIT Raipur.**
-* AICTE Training And Learning (ATAL) Academy Online Elementary FDP on "Cultivating Excellence in Implementation of Computation-al Science for Scientific and Technological Innovations" from 2021-06-14 to 2021-06-18 at **NIT Rourkela.**
+* AICTE Training And Learning (ATAL) Aacademy Online Elementary FDP on "Cultivating Excellence in Implementation of Computation-al Science for Scientific and Technological Innovations" from 2021-06-14 to 2021-06-18 at **NIT Rourkela.**
 * AICTE Training And Learning (ATAL) Academy Online FDP on "Data Sciences" from 2020-10-5 to 2020-10-9 at **Central University of Tamil Nadu.**
 * AICTE Training And Learning (ATAL) Academy Online FDP on "Data Sciences" from 2020-10-12 to 2020-10-16 at **GGU, Bilaspur (C.G.)**
 * AICTE Training And Learning (ATAL) Academy Online FDP on "Internet of Things (IoT)" from 2020-11-14 to 2020-11-18 at **IIT Goa.**
