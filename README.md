@@ -81,13 +81,16 @@ and Engineering, vol. 7, no. 6, pp. 538–542, Jun. 2019. [[Paper]](https://doi.
 * Medhabruti scholarship by Govt of Odisha (2011-2018).
 
 ## Courses Taught/ Currently Teaching
-* Applied Machine Learning (CSAI2017P)
-* Applied Machine Learning Lab
-* Pattern Recognition (CSAI7025)
-* Deep Learning
-* Deep Learning Lab
-* Elements of AIML
-* Elements of AIML Lab
+* Applied Machine Learning (CSAI2017P) **(BTech)**
+* Applied Machine Learning Lab **(BTech)**
+* Pattern Recognition (CSAI7025) **(MTech)**
+* Deep Learning **(MTech)**
+* Deep Learning **(MCA)**
+* Deep Learning Lab **(BTech)**
+* Deep Learning Lab **(MTech)**
+* Elements of AIML **(BTech)**
+* Elements of AIML Lab **(BTech)**
+* Data Visualization **(MBA)**
 
 ## Invited as Speakers/ Resource Person
 * Invited as a resource person to present a talk during the "Machine Learning" workshop organized by Sambalpur
