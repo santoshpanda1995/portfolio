@@ -65,7 +65,7 @@ and Engineering, vol. 7, no. 6, pp. 538–542, Jun. 2019. [[Paper]](https://doi.
 
 <strong>Conferences</strong>
 * S. Ghosh, **S. K. Panda**, M. K. Bishwal and P. K. Sa, "Transformer-Based Model for Building Classification Under Diverse Lighting Conditions," 2025 International Conference on Innovative Trends in Information Technology (ICITIIT), Kottayam, India, 2025, pp. 1-6. [[Paper]](https://ieeexplore.ieee.org/document/11040288)
-* <strong>S. K. Panda</strong> and P. K. Sa, "A Deep Retinex-based Model for Enhancing Low-Light Images Captured from UAV," in 6th International Conference on Communication and Intelligent Systems (ICCIS 2024), MANIT Bhopal, November 08-09, 2024. ( Accepted and Presented)
+* <strong>S. K. Panda</strong> and P. K. Sa, "A Retinex-Inspired Approach for Enhancing Low-Light Images Captured from UAV," in Communication and Intelligent Systems. ICCIS 2024. Lecture Notes in Networks and Systems, vol 1372. Springer, Singapore. [[Paper]](https://link.springer.com/chapter/10.1007/978-981-96-5726-1_21)
 * <strong>S. K. Panda</strong>, D. Nayak, and P. K. Sa, “MCCNet: A multi-scale cross connection network for low-light image enhancement,” in Computer Vision and Image Processing. Springer Nature Switzerland, 2024, pp. 488–499. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-58181-6_41)   [[Code]](https://github.com/santoshpanda1995/Multiscale-cross-connection-network)
 
 
@@ -82,14 +82,14 @@ and Engineering, vol. 7, no. 6, pp. 538–542, Jun. 2019. [[Paper]](https://doi.
 
 ## Courses Taught/ Currently Teaching
 * Applied Machine Learning (CSAI2017P) **(BTech)**
-* Applied Machine Learning Lab **(BTech)**
+* Applied Machine Learning Lab (CSAI2017P)**(BTech)**
 * Pattern Recognition (CSAI7025) **(MTech)**
-* Deep Learning **(MTech)**
-* Deep Learning **(MCA)**
-* Deep Learning Lab **(BTech)**
-* Deep Learning Lab **(MTech)**
-* Elements of AIML **(BTech)**
-* Elements of AIML Lab **(BTech)**
+* Deep Learning (CSAI7020_4) **(MTech)**
+* Deep Learning (CSAI7023_3) **(MCA)**
+* Deep Learning Lab (CSAI3125P_1) **(BTech)**
+* Deep Learning Lab (CSAI7020_4) **(MTech)**
+* Elements of AIML (CSAI2018_3) **(BTech)**
+* Elements of AIML Lab (CSAI2018_3) **(BTech)**
 * Data Visualization **(MBA)**
 
 ## Invited as Speakers/ Resource Person
@@ -116,6 +116,8 @@ Learning in Biometric Security Systems (2021)".
 ## Reviewer for Journal/ Conference
 <strong> Journals </strong>
 *  Elsevier Knowledge-Based Systems
+*  Elsevier Expert systems with applications
+*  Elsevier Future generation computer systems
 *  Elsevier Pattern Recognition
 *  Elsevier Computer vision and image understanding
 *  Springer Nature Applied Intelligence
