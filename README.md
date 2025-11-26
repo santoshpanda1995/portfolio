@@ -1,7 +1,7 @@
 # Assistant Professor, SoCS, UPES Dehradun
 #### Languages: Python, MATLAB, C, C++, Java, Rust, PHP, HTML
 #### Frameworks: Keras, Tensorflow
-#### Github Stars: 222 stars
+#### Github Stars: 227 stars
 #### Google Scholar Citations: 44 Citations
 ## Education
 <table>
