@@ -2,7 +2,7 @@
 #### Languages: Python, MATLAB, C, C++, Java, Rust, PHP, HTML
 #### Frameworks: Keras, Tensorflow
 #### Github Stars: 222 stars
-#### Google Scholar Citations: 29 Citations
+#### Google Scholar Citations: 44 Citations
 ## Education
 <table>
         <thead>
