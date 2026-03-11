@@ -2,7 +2,7 @@
 #### Languages: Python, MATLAB, C, C++, Java, Rust, PHP, HTML
 #### Frameworks: Keras, Tensorflow
 #### Github Stars: 227 stars
-#### Google Scholar Citations: 44 Citations
+#### Google Scholar Citations: 47 Citations
 ## Education
 <table>
         <thead>
@@ -17,7 +17,7 @@
             <tr>
                 <td>Ph.D, CS</td>
                 <td>NIT Rourkela</td>
-                <td>2020-Continuing</td>
+                <td>2020-25</td>
                 <td>8.83</td>
             </tr>
             <tr>
